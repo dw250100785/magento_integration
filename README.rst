@@ -1,3 +1,8 @@
+声明：
+  这个版本只是个人为了方便汉化，修改，自定义功能而创建。
+  完完全全属于代码管理。
+  官方源请进   http://www.openlabs.co.in
+  
 Magento OpenERP Integration
 ===========================
 
